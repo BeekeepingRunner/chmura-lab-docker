@@ -40,3 +40,8 @@ docker inspect pfswcho-zadanie1:0.0.1
 
 
 # Zadanie 2
+
+- Workflow budujący aplikację jest opisany w pliku:
+```
+.github/workflows/gha_basic.yml
+```
