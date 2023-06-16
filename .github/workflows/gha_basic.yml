@@ -28,8 +28,8 @@ jobs:
         uses: docker/build-push-action@v3
         with:
           context: ./
-          file: ./Dockerfile_prod
+          file: ./Dockerfile
           push: true
           tags: |
-            bbiegajlo/gh_action_lab:ghlab3base
+            bbiegajlo/chmura_zadanie2:basic
           
