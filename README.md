@@ -37,3 +37,6 @@ Niestety mój adres IP jest nieprawidłowy dla API geolokalizacyjnego
 docker inspect pfswcho-zadanie1:0.0.1
 ```
 ![image](https://github.com/BeekeepingRunner/chmura-lab-docker/assets/54111855/bff90a2e-446c-457c-b5ec-3f18a2d5b049)
+
+
+# Zadanie 2
